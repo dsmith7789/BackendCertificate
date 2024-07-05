@@ -1,0 +1,3 @@
+[submodule "Thinkful/starter-constellations-server"]
+	path = Thinkful/starter-constellations-server
+	url = git@github.com:dsmith7789/starter-constellations-server.git
